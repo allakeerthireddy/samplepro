@@ -1,2 +1,1 @@
-This is my first file doc in github
-learning github...!!!
+This is my frist file document in github
